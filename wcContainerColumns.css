@@ -1,0 +1,19 @@
+.wcColumnContainerSection {
+	background-color: #4dc2be;
+	flex-direction: row !important;
+	justify-content: space-evenly !important;
+	align-items: center !important;
+	align-content: center !important;
+}
+
+.column {
+
+}
+
+.firstColumn {
+
+}
+
+.secondColumn {
+
+}
